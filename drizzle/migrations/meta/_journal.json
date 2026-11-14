@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793760435452,
+      "tag": "0000_eshop_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794370869305,
+      "tag": "0001_admin_catalog_management",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794386804043,
+      "tag": "0002_admin_orders_payments_history",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1794490654296,
+      "tag": "0003_reviews_hide_reviewer_identity",
+      "breakpoints": true
+    }
+  ]
+}
